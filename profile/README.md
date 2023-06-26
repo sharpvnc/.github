@@ -14,4 +14,4 @@ _Registered office: Office One, 1 Coldbath Square, London, United Kingdom, EC1R 
 
 For more information on SharpVNC or its licensing, please contact [support@sharpvnc.com](mailto:support@sharpvnc.com).
 
-_SharpVNC, the SharpVNC logo & source code remains the exclusive intellectual property of SharpVNC Limited_
+_SharpVNC, the SharpVNC logo & source code remains the exclusive intellectual property of SharpVNC Limited_.
