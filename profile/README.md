@@ -6,7 +6,7 @@ SharpVNC produces cross-platform & high performance remote access technologies, 
 - **Turbo JPEG wrapper** - a .NET wrapper of the _libjpegturbo_ library.
 - **Cloudflare Zlib Compression wrapper** - a .NET wrapper of the Zlib library for which Cloudflare introduced a range SIMD performance enhancements.
 
-Copyright © SharpVNC Limited 2021-2023. All rights reserved.
+Copyright © SharpVNC Limited 2021-2024. All rights reserved.
 
 SharpVNC Limited is a private limited company, limited by shares, registered in England & Wales, company number 14907913.
 
