@@ -9,10 +9,9 @@ SharpVNC produces cross-platform & high performance remote access technologies, 
 
 Copyright © SharpVNC Limited 2021-2024. All rights reserved.
 
-SharpVNC Limited is a private limited company, limited by shares, registered in England & Wales, company number 14907913.
-
-_Registered office: Office One, 1 Coldbath Square, London, United Kingdom, EC1R 5HL United Kingdom._
-
 For more information on SharpVNC or its licensing, please contact [support@sharpvnc.com](mailto:support@sharpvnc.com).
 
-_SharpVNC, the SharpVNC logo & source code remains the exclusive intellectual property of SharpVNC Limited_.
+#
+<sub>_SharpVNC Limited is a private limited company, limited by shares, registered in England & Wales, company number 14907913. Registered office: Office One, 1 Coldbath Square, London, United Kingdom, EC1R 5HL United Kingdom._</sub>
+
+<sub>_SharpVNC, the SharpVNC logo & source code remains the exclusive intellectual property of SharpVNC Limited._</sub>
