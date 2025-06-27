@@ -7,7 +7,7 @@ SharpVNC produces cross-platform & high performance remote access technologies, 
 - **Cloudflare Zlib Compression wrapper** - a .NET wrapper of the Zlib library for which Cloudflare introduced a range SIMD performance enhancements.
 - **UDT/SRT protocol wrapper** - a .NET wrapper and bindings for the User Datagram Protocol for Data Transfer (UDT) / Secure Reliable Transport (SRT) protocols.
 
-Copyright © SharpVNC Limited 2021-2024. All rights reserved.
+Copyright © SharpVNC Limited 2021-2025. All rights reserved.
 
 For more information on SharpVNC or its licensing, please contact [support@sharpvnc.com](mailto:support@sharpvnc.com).
 
